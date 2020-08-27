@@ -3,4 +3,5 @@
 3rd Line
 4th Line
 5th Line master
-5th Line added 
+5th Line added
+stash test
